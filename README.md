@@ -21,53 +21,6 @@ Building scalable systems through automation, cloud technologies and modern DevO
 
 🎯 Seeking opportunities in DevOps, Cloud Engineering, SRE and Backend Development
 
-## 🎯 Career Objective
-
-Seeking opportunities as a:
-
-- DevOps Engineer
-- Cloud Engineer
-- Platform Engineer
-- Site Reliability Engineer (SRE)
-- Backend Developer
-
-where I can contribute through automation, cloud technologies and scalable system design while continuously learning and growing.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
-
-### Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,bash" />
-</p>
-
----
 
 ## ☁️ DevOps Toolkit
 
@@ -134,8 +87,7 @@ Location-based helper discovery platform built using React, Firebase and OpenStr
 ## 🎓 Education
 
 Master of Computer Applications (MCA)
-Galgotias College of Engineering & Technology
-Expected Graduation: 2026
+Galgotias College of Engineering & Technology 
 CGPA: 8.1
 
 
@@ -168,40 +120,6 @@ April 2025 – May 2025
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayNgit&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayNgit&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayNgit&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Kubernetes Administration
-- Terraform
-- GitOps
-- AWS Services
-- Docker Best Practices
-- CI/CD Pipelines
-- Monitoring & Observability
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
@@ -220,7 +138,7 @@ April 2025 – May 2025
 
 ## 📫 Reach Me
 
-📧 Email: YOUR_EMAIL_HERE
+📧 Email: hi2vsnegi@gmail.com
 
 💼 LinkedIn:
 https://linkedin.com/in/vijay-singh-negi
