@@ -145,15 +145,6 @@ https://linkedin.com/in/vijay-singh-negi
 🐙 GitHub:
 https://github.com/vijayNgit
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vijayNgit&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <h3 align="center">
 
