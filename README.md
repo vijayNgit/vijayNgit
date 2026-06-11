@@ -7,7 +7,6 @@ DevOps & Cloud Engineer ☁️ | Java Developer ☕ | AWS • Docker • Kuberne
 <p align="center">
 Building scalable systems through automation, cloud technologies and modern DevOps practices.
 </p>
----
 
 ## 🚀 About Me
 
