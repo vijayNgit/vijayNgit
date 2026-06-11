@@ -1,43 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vijay Singh Negi</h1>
 
 <h3 align="center">
-DevOps Engineer in Progress ☁️ | MCA Student 🎓 | Java Developer ☕ 
+DevOps & Cloud Engineer ☁️ | Java Developer ☕ | AWS • Docker • Kubernetes • Terraform
 </h3>
 
 <p align="center">
-From Healthcare to Technology 🚀 Building Cloud-Native and AI-Powered Solutions
+Building scalable systems through automation, cloud technologies and modern DevOps practices.
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=MCA+Student+at+Galgotias+College;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Java+Backend+Developer;Cloud+%26+Automation+Enthusiast;Building+Production-Ready+Projects" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
-🎓 Master of Computer Applications (MCA) Student
+💻 DevOps and Cloud enthusiast with hands-on experience in AWS, Docker, Kubernetes and Terraform
 
-💻 Passionate about DevOps, Cloud Computing, Backend Development and Automation
+☁️ Passionate about automation, infrastructure, CI/CD pipelines and cloud-native technologies
 
-☁️ Learning and building with AWS, Docker, Kubernetes, Terraform and CI/CD
+🚀 Built projects involving networking, AI systems and full-stack web development
 
-🏥 Successfully transitioned from a Pharmacy background into Software Development
+📈 Continuously learning and applying modern DevOps and platform engineering practices
 
-📈 Focused on Cloud-Native Architecture, Infrastructure Automation and Scalable Systems
-
-🤖 Interested in AI Engineering, Developer Productivity and Modern DevOps Practices
-
-🌱 Currently improving my skills in:
-
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Linux Administration
-- AWS Services
-- Monitoring & Observability
-
----
+🎯 Seeking opportunities in DevOps, Cloud Engineering, SRE and Backend Development
 
 ## 🎯 Career Objective
 
@@ -102,116 +84,60 @@ where I can contribute through automation, cloud technologies and scalable syste
 | Scripting | Bash, Python |
 
 ---
-
 # 🚀 Featured Projects
 
----
+## ☁️ Cloud-Native DevOps & AIOps Platform
 
-## 🔍 Deep Packet Inspection (DPI) Engine
+AWS • Terraform • Amazon EKS • ArgoCD • GitHub Actions • Prometheus • Grafana • Fluent Bit • Amazon Bedrock
 
-### Tech Stack
-Java • Multithreading • Networking • Wireshark • PCAP Analysis
-
-### Highlights
-
-✅ Multi-threaded packet processing
-
-✅ Traffic classification
-
-✅ TLS SNI extraction
-
-✅ HTTP Host detection
-
-✅ Flow-based packet inspection
-
-✅ Rule-based traffic blocking
-
-✅ PCAP file analysis
-
-✅ Application-wise traffic statistics
-
-### Key Learnings
-
-- Networking fundamentals
-- Traffic inspection
-- Concurrent programming
-- System-level Java development
+- Built and deployed cloud-native workloads on AWS.
+- Implemented Infrastructure as Code using Terraform.
+- Automated CI/CD pipelines with GitHub Actions.
+- Configured GitOps workflows using ArgoCD.
+- Integrated monitoring, logging and observability solutions.
+- Added AI-assisted operational troubleshooting capabilities.
 
 ---
 
-## 🤖 WomensWell AI
+## 🔍 Java Deep Packet Inspection (DPI) Engine
 
-### Tech Stack
+Java • Multithreading • Networking • PCAP Analysis • Wireshark
 
-LangGraph • Gemini API • RAG • LLM Engineering
-
-### Highlights
-
-✅ AI-powered wellness assistant
-
-✅ Retrieval Augmented Generation (RAG)
-
-✅ Personalized conversational workflows
-
-✅ Context-aware responses
-
-✅ Healthcare-focused AI assistance
-
-### Key Learnings
-
-- Prompt Engineering
-- LLM Applications
-- LangGraph Workflows
-- AI Product Development
+- Developed a multi-threaded packet inspection engine.
+- Implemented traffic classification and packet parsing.
+- Added TLS SNI extraction and protocol analysis.
+- Applied rule-based filtering and flow tracking.
+- Validated network analysis using Wireshark.
 
 ---
 
-## 📍 Help-Yaar
+## 💳 Offline UPI Payment Without Internet
 
-### Tech Stack
+Spring Boot • Bluetooth Mesh • RSA-OAEP • AES-GCM • REST APIs
 
-React • Firebase Firestore • OpenStreetMap
+- Built a secure offline payment processing backend.
+- Designed peer-to-peer payment communication.
+- Implemented transaction validation mechanisms.
+- Added duplicate payment prevention logic.
+- Developed REST APIs for payment routing and tracking.
 
-### Highlights
+## 📂 Additional Projects
 
-✅ Location-based helper discovery
+### 🤖 WomensWell AI
+AI-powered wellness assistant built using Gemini API, LangGraph and RAG pipelines.
 
-✅ Interactive maps integration
-
-✅ Real-time database
-
-✅ Address filtering and matching
-
-✅ Community assistance platform
-
-### Key Learnings
-
-- Frontend Development
-- Firebase
-- Geolocation Services
-- Real-world Product Development
+### 📍 Help-Yaar
+Location-based helper discovery platform built using React, Firebase and OpenStreetMap.
 
 ---
 
 ## 🎓 Education
 
-### Master of Computer Applications (MCA)
-
+Master of Computer Applications (MCA)
 Galgotias College of Engineering & Technology
-
 Expected Graduation: 2026
+CGPA: 8.1
 
-Current CGPA: 8.1
-
----
-
-### Bachelor of Pharmacy (B.Pharm)
-
-Sharda University
-
-Graduated Successfully
-
----
 
 ## 💼 Internship Experience
 
